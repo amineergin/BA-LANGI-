@@ -1,2 +1,2 @@
 # BASLANGIC
-TechCareer.net BAŞLANGIÇ 17-09-2023
+TechCareer.net bootcamp kapsamında sıralama algoritmalarının uygulanmasını içerir.
